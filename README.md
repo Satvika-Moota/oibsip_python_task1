@@ -22,7 +22,7 @@ It is a beginner-friendly project made to learn how real voice assistants like A
 ## ⚙️ Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/Satvika-Moota/oibsip_python_task1
 
 2. Go to the project folder:
 cd voice-assistant
